@@ -1,0 +1,34 @@
+
+gerencimantos git parte 7 
+
+
+comando  1   checkout master 
+
+
+comando 2 git merge secondary /// colocar informação no arquivo  e salvar 
+
+
+comando 3 git status 
+
+
+comnando 3 git add o nome do arquivo 
+
+comando 4  git commit -m"conteudo mesclado (fusao)"
+
+comando 5 git log 
+
+        enviar para reposirorio remodo 
+
+
+comando 6 git push   origin master 
+
+comando 7 git push origin secondary 
+
+        verificar se os arquivos estao la no github no seti na pasata master 
+
+
+
+comando 8 git gui
+
+
+

@@ -1,0 +1,45 @@
+   
+
+
+          gerenciamento  git parte 08
+
+ criar uma nova pasta na pasta de diretorio master 
+
+
+detro da pasta cria um arquivo  . keep
+
+
+ cria outro arquivo  txt  README.MD tire a extensão final . txt
+
+abrir  o arquivo README como note pad+++
+
+cria titulo em subtitulo 
+
+
+comando cmd na pasat destino para enviar para diretorio 
+
+
+
+
+comando 1 git status 
+
+
+comando 2 git add .
+
+comando 3 git status  
+
+
+
+os arquivos estado no ok 
+
+comando 4 git commit -m"criaçao dos arquivos keep README.MD na pasta arq 25 09 2020 "
+
+
+comando 5 git  config --local user.email nome do email 
+
+comando 6 git  config --local user.name "nome do dominio"
+
+comando 7 git push origin master
+
+
+

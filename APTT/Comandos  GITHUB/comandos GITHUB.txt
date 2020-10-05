@@ -1,0 +1,69 @@
+coamndo CMD
+
+
+
+vai na pasta 
+
+
+comando 1A   git --version
+
+comando 1B   git init
+
+
+comando 2  git config --local user.name"nome completo"
+
+comando 3  git config --local user.email"email completo"
+
+comando 3  git status 
+
+comando 4  git add nome do arquivo ou git add . / selecionar todos os arquivos 
+
+comando 5  git commit -m"nome do assunto do envio" 
+
+
+OBS pegar link do diretrio ja feito 
+
+git remote add origin https://github.com/nome do email/nome diretorio github.git
+
+
+
+OBS2 caso o comando ter erro  / de global 
+
+git config --global user.email"nome do email"git
+
+git config --global user.name "nome completo "voltar para comando commit inicial
+
+
+envio do repositorio para GITHUB gerar o repositorio no github
+
+
+comando 6 git  push origin master mais login do repositorio 
+
+
+recuperar a uum aquivo ou pasta excluida 
+
+
+comando 1 fazer uma pasta escriro recuperaçao 
+
+
+comando 2 cmd 
+
+comando 3 nome da pasta nova 
+
+
+comando 4  git clone e link a onde esta o arquivo GITHUB
+
+
+  observacao 
+
+
+verificar primeiro a versao do git hub depois de instalado 
+
+
+
+
+
+
+
+ 
+

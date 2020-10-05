@@ -1,0 +1,43 @@
+comando brand versao anterior 
+
+comando 1 altearar o arquivo 
+
+
+comando 2 git status 
+
+criar branch
+
+
+comando 3 git branch secundary
+
+mudar o ramo 
+
+
+comando 4 git checkout secondary 
+
+
+comando 5 git add o nome do arquivo modificado 
+
+comando 6 git commit
+
+vai ta um erro e vai pedir o email 
+
+comando 7 git config --local user.email"nome do email"   
+ 
+
+comando 8 git config --local user.name"nome  do dominio" 
+
+
+comando 9 git commit
+
+
+comando 10  vai abrir  caixa do notepad++ apagar e colocar uma informação e slavar nessa plataforma 
+
+comando 11  git log
+
+comando 12 git gui repositorio extensão grafica 
+
+
+
+
+
